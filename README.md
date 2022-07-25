@@ -1,8 +1,14 @@
 # my-notes
 ![drawing wireframe](https://c8.alamy.com/zooms/9/4db79ff1a04444cf8a17e8fa87cb021e/2befcef.jpg)
-**_Part 1_** 
 
- # My Name is Ala'a Al-Momani #
+
+ 
+
+
+
+ <h1 align='center'> Hi there 👋, I'm Ala'a Al-Momani  👩‍💻 </h1>
+
+ **_Part 1_** 
 ## I am 25 years old
 ## I studied Electrical power engineering at Al-Balqa'a university
 ## I am currently studying a Python course at Luminus College to be a professional wep developer
@@ -26,6 +32,8 @@ The text talks about the problems facing web developers in general, such as the 
 
 
 #### Thank You 
+
+
 
 
 
